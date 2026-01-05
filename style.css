@@ -72,3 +72,10 @@ main {
 .order-btn:hover {
   background: #43a047;
 }
+
+.product-card img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  object-fit: cover;
+}
