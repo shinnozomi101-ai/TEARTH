@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   background: #FAFAFA;
   color: #333;
 }
@@ -79,3 +79,4 @@ main {
   margin-bottom: 12px;
   object-fit: cover;
 }
+
